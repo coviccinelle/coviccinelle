@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋   I'm Phuong-Thao Nguyen 🌱
+
+🔭 I'm currently studying at 42 Paris.
+
+
+## 42 Statistics
+<p>
+	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=thi-phng" link="https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/"/>
+</p>
+
+## Github Stat
+![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=tokyonight)
+
+
+If you have any questions or feedback feel free to contact me !
+
+<a href= "https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/">
+<img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thi-phng@student.42.fr">
+<img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
