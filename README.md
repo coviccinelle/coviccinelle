@@ -25,6 +25,15 @@ Here are some ideas to get you started:
 ## Github Stat
 ![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=tokyonight)
 
+<p>
+	<a href="https://github.com/coviccinelle/coviccinelle">
+	  <img src="https://komarev.com/ghpvc/?username=coviccinelle&style=flat-square" alt="page views" />
+	</a>
+	<a href="https://github.com/coviccinelle?tab=followers">
+	  <img src="https://img.shields.io/github/followers/coviccinelle?color=green&logo=github&style=flat-square">
+	</a>
+</p>
+
 
 📫 Feel free to contact me if you want 😄 !
 
