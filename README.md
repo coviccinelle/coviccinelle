@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## 42 Status
 <p>
-[![thi-phng's 42 stats](https://badge42.herokuapp.com/api/stats/thi-phng)](https://github.com/coviccinelle/coviccinelle)
-	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=thi-phng" link="https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/"/>
+	[![thi-phng's 42 stats](https://badge42.herokuapp.com/api/stats/thi-phng)](https://github.com/coviccinelle/coviccinelle)
+link="https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/"/>
 </p>
 
 ## Github Stat
