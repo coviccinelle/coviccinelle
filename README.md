@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 42 Status
 <p>
 	[![thi-phng's 42 stats](https://badge42.herokuapp.com/api/stats/thi-phng)](https://github.com/coviccinelle/coviccinelle)
-link="https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/"/>
+	link="https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/"/>
 </p>
 
 ## Github Stat
