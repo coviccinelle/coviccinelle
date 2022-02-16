@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-
 📫  Feel free to contact me if you want 😄 !
 
 <a href= "https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/">
