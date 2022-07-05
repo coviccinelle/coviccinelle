@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-📫  Feel free to contact me if you want 😄 !
+📫  Feel free to contact me 😄 !
 
 <a href= "https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/">
 <img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
