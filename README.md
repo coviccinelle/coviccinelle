@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 42 Status
 <p>
-	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=thi-phng"/>
+	[![malatini's 42 stats](https://badge42.vercel.app/api/v2/cl579mep7000609mhpzeqlzmo/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 </p>
 
 ## Github Stat
