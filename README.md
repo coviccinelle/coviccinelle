@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 42 Status
 
-[![thi-phng's 42 stats]
+[![thi-phng's 42 stats](https://badge42.vercel.app/api/v2/cl60tnaf7000609m5geezdizm/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 ## Github Stat
 ![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=tokyonight)
