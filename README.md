@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 42 Status
 <p>
-	[![malatini's 42 stats](https://badge42.vercel.app/api/v2/cl579mep7000609mhpzeqlzmo/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
+	[![thi-phng's 42 stats](https://badge42.vercel.app/api/v2/cl579mep7000609mhpzeqlzmo/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 </p>
 
 ## Github Stat
