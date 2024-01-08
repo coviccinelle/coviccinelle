@@ -44,7 +44,7 @@ Some technologies I used in projects:
 
 📫  Feel free to contact me 😄 !
 
-<a href= "https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/">
+<a href= "[https://www.linkedin.com/in/%E2%9C%94-phuong-thao-nguyen-2b448411b/](https://www.linkedin.com/in/%F0%9F%8C%B8-phuong-thao-nguyen-2b448411b/)">
 <img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thi-phng@student.42.fr">
 <img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
