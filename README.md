@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋   I'm Phuong-Thao Nguyen 🌱
 🔭 I'm a curious Vietnamese girl currently studying at 42 Paris. I have a University degree in Communication and I'm preparing for another degree in Computer Science.
-I'm interested in discovering and creating things in general, it could be a meal, an edited video, coding a program, or solving a logical problem.
-Thanks for visiting my corner!
+
+I'm interested in discovering and creating things in general, it could be a meal, an edited video, coding a program, writing some pages, or solving a logical problem.
+
+Thanks for visiting my corner! 🌱📚🌸
 
 Some technologies I used in projects:
 
