@@ -17,7 +17,9 @@ Human and alive
 
 
 ## Github Stat
-![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=tokyonight" />
+</div>
 
 <p>
 	<a href="https://github.com/coviccinelle/coviccinelle">
