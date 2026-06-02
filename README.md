@@ -17,7 +17,8 @@ Human and alive
 
 
 ## Github Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=radium&v=1)](https://github.com/coviccinelle)
+
 <p>
 	<a href="https://github.com/coviccinelle/coviccinelle">
 	  <img src="https://komarev.com/ghpvc/?username=coviccinelle&style=flat-square" alt="page views" />
