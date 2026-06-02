@@ -17,7 +17,9 @@ Human and alive
 
 
 ## Github Stat
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=radium&v=1)](https://github.com/coviccinelle)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=coviccinelle&theme=radium&v=1)](https://github.com/coviccinelle)
+
 
 <p>
 	<a href="https://github.com/coviccinelle/coviccinelle">
