@@ -67,11 +67,11 @@ Here are 10 of my best projects, ranging from algorithms and game development to
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_EXACT_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
+  <a href="https://github.com/coviccinelle">
+    <img src="https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_EXACT_USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR_EXACT_USERNAME&theme=radium&hide_border=true&v=1" alt="GitHub Streak" />
+  <a href="https://github.com/coviccinelle">
+    <img src="https://streak-stats.demolab.com?user=coviccinelle&theme=radium&hide_border=true&v=1" alt="GitHub Streak" />
   </a>
 </div>
 
