@@ -1,5 +1,5 @@
-# 👋 Hello, I'm [Your Name]
-**Software Engineer | Web3 Developer | Game Developer**
+# 👋 Hello, I'm Thao
+**Software Engineer | Fullstack Web - Mobile | Web3 **
 
 Welcome to my GitHub! I am a passionate developer with a strong foundation in **Algorithms**, **C/C++**, and **Fullstack Web Development**. I love building everything from interactive 3D games to decentralized Web3 applications.
 
