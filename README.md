@@ -1,97 +1,91 @@
-# 👋 Hello, I'm Thao
-**Software Engineer | Fullstack Web - Mobile | Web3 **
-
-Welcome to my GitHub! I am a passionate developer with a strong foundation in **Algorithms**, **C/C++**, and **Fullstack Web Development**. I love building everything from interactive 3D games to decentralized Web3 applications.
-
-### 🛠️ My Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-
----
-
-## 🚀 Featured Projects
-
-Here are 10 of my best projects, ranging from algorithms and game development to full-stack and blockchain solutions:
-
-| 🎮 Game & Graphics | 🌐 Mini Shell |
-| :---: | :---: |
-| <img src="https://github.com/coviccinelle/cub3d_42/blob/newwww/cub_3d.gif" width="400"> | <img src="https://github.com/coviccinelle/Minishell/blob/norme/minishell_b.gif" width="400"> |
-| **[3D Game Project in C](https://github.com/username/project1)** | **[Mini Shell in C](https://github.com/username/project2)** |
-| 📝 *A custom 3D rendering engine and game built from scratch using C++ and OpenGL. Features custom physics and lighting.* | 📝 *A Web3 platform allowing users to swap tokens on the Ethereum testnet with a sleek React UI.* |
-| `C++` `OpenGL` `GLSL` | `Solidity` `React` `Web3.js` |
-
-
-
-| 💻 Fullstack Web | 🧠 Algorithms & Data Structures |
-| :---: | :---: |
-| <img src="link_to_gif_or_image_3.jpg" width="400"> | <img src="https://github.com/coviccinelle/42_push_swap/blob/main/push_swap_visualize.gif" width="400"> |
-| **[E-Commerce Platform](https://github.com/username/project3)** | **[Sorting algo in C](https://github.com/username/project4)** |
-| 📝 *A fully functional e-commerce web app with user authentication, cart management, and payment integration.* | 📝 *An interactive tool to visualize complex algorithms like A* and Dijkstra's in real-time.* |
-| `MERN Stack` `Redux` | `C` `Algorithms` `SDL2` |
-
-
-
-| 🕹️ 2D Game Development | ⚙️ Systems Programming |
-| :---: | :---: |
-| <img src="https://github.com/coviccinelle/42so_long/blob/main/ft_so_long.gif" width="400"> | <img src="link_to_gif_or_image_6.jpg" width="400"> |
-| **[Retro 2D game in C](https://github.com/username/project5)** | **[Custom Memory Allocator](https://github.com/username/project6)** |
-| 📝 *A fast-paced 2D platformer game focusing on smooth mechanics and memory management using pure C.* | 📝 *A high-performance custom `malloc` and `free` implementation designed to optimize heap memory.* |
-| `C` `Raylib` / `SDL` | `C` `Linux` `OS` |
-
-
-
-| 🌐 Modern Frontend | 🤖 AI / Logic Systems |
-| :---: | :---: |
-| <img src="link_to_gif_or_image_7.gif" width="400"> | <img src="link_to_gif_or_image_8.jpg" width="400"> |
-| **[Portfolio Website](https://github.com/username/project7)** | **[Chess Engine](https://github.com/username/project8)** |
-| 📝 *My personal website showcasing my skills, built with modern web technologies and highly optimized animations.* | 📝 *A complete chess bot in C++ utilizing Minimax algorithms and Alpha-Beta pruning.* |
-| `TypeScript` `Next.js` | `C++` `Game Theory` |
-
-
-
-| ⛓️ Blockchain Utility | 🛠️ Developer Tools |
-| :---: | :---: |
-| <img src="link_to_gif_or_image_9.jpg" width="400"> | <img src="link_to_gif_or_image_10.gif" width="400"> |
-| **[Smart Contract Auditor](https://github.com/username/project9)** | **[CLI Task Manager](https://github.com/username/project10)** |
-| 📝 *A script that scans Solidity smart contracts for common vulnerabilities (Reentrancy, Overflow).* | 📝 *A blazing-fast command-line interface tool to manage daily tasks, built entirely in C++.* |
-| `Python` `Web3` | `C++` `CLI` |
-
-
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  <a href="https://github.com/coviccinelle">
-    <img src="https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/coviccinelle">
-    <img src="https://streak-stats.demolab.com?user=coviccinelle&theme=radium&hide_border=true&v=1" alt="GitHub Streak" />
-  </a>
+
+# 🌸 Thao · coviccinelle
+### cute, minimalist, pastel portfolio
+
+<a href="https://github.com/coviccinelle?tab=repositories"><img alt="all repos" src="https://img.shields.io/badge/Public%20Repos-24-f6c6d8?style=for-the-badge"></a>
+<a href="https://github.com/coviccinelle?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/coviccinelle?style=for-the-badge&color=c7b8ff"></a>
+
 </div>
 
 ---
-*Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/yourlink) or [Email](mailto:your.email@example.com).*
-# Hi there 👋  
-Human and alive
 
+## 🫧 about me
+Software engineer focused on **C/C++**, **fullstack web/mobile**, and **web3**.
+I love building playful projects with clean design and strong fundamentals.
 
-## Github Stat
+## 🎀 featured visuals (from my repos)
+| cub3d_42 | Minishell |
+|---|---|
+| <img src="https://github.com/coviccinelle/cub3d_42/blob/newwww/cub_3d.gif" width="100%"/> | <img src="https://github.com/coviccinelle/Minishell/blob/norme/minishell_b.gif" width="100%"/> |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=coviccinelle&theme=radium&v=1)](https://github.com/coviccinelle)
+| 42so_long | 42_push_swap |
+|---|---|
+| <img src="https://github.com/coviccinelle/42so_long/blob/main/ft_so_long.gif" width="100%"/> | <img src="https://github.com/coviccinelle/42_push_swap/blob/main/push_swap_visualize.gif" width="100%"/> |
 
-<p>
-	<a href="https://github.com/coviccinelle/coviccinelle">
-	  <img src="https://komarev.com/ghpvc/?username=coviccinelle&style=flat-square" alt="page views" />
-	</a>
-	<a href="https://github.com/coviccinelle?tab=followers">
-	  <img src="https://img.shields.io/github/followers/coviccinelle?color=green&logo=github&style=flat-square">
-	</a>
-</p>
+## 🌷 all public repos
 
+| Repo | Stack / focus |
+|---|---|
+| [42_badass](https://github.com/coviccinelle/42_badass) | Shell · network school project |
+| [42_CPP](https://github.com/coviccinelle/42_CPP) | C++ |
+| [42_ft_irc](https://github.com/coviccinelle/42_ft_irc) | C++ · IRC server |
+| [42_iot_thi-phng](https://github.com/coviccinelle/42_iot_thi-phng) | Shell · IoT |
+| [42-libft](https://github.com/coviccinelle/42-libft) | C · core library |
+| [42_override](https://github.com/coviccinelle/42_override) | Shell |
+| [42_push_swap](https://github.com/coviccinelle/42_push_swap) | C · algorithms |
+| [42_subjects](https://github.com/coviccinelle/42_subjects) | project subjects |
+| [42ft_ping](https://github.com/coviccinelle/42ft_ping) | C · system programming |
+| [42so_long](https://github.com/coviccinelle/42so_long) | C · 2D game |
+| [api_test](https://github.com/coviccinelle/api_test) | JavaScript |
+| [bootstrap_ubuntu](https://github.com/coviccinelle/bootstrap_ubuntu) | Shell |
+| [coviccinelle](https://github.com/coviccinelle/coviccinelle) | profile repository |
+| [cub3d_42](https://github.com/coviccinelle/cub3d_42) | C · raycasting |
+| [ft_42_Containers](https://github.com/coviccinelle/ft_42_Containers) | C++ · containers |
+| [ft_printf_42](https://github.com/coviccinelle/ft_printf_42) | C · printf |
+| [ft_tokenizer](https://github.com/coviccinelle/ft_tokenizer) | Solidity · web3 token |
+| [ft_tokenizerArt](https://github.com/coviccinelle/ft_tokenizerArt) | HTML · NFT project |
+| [Minishell](https://github.com/coviccinelle/Minishell) | C · shell |
+| [minitalk_42](https://github.com/coviccinelle/minitalk_42) | C · unix signals |
+| [todolist](https://github.com/coviccinelle/todolist) | HTML |
+| [vis_dotfiles](https://github.com/coviccinelle/vis_dotfiles) | Shell · dotfiles |
+| [vitcut](https://github.com/coviccinelle/vitcut) | app prototype |
+| [WebDevNewbie](https://github.com/coviccinelle/WebDevNewbie) | JavaScript |
 
+<details>
+<summary>🖼️ pastel repo cards (auto image preview for each public repo)</summary>
+
+|  |  |
+|---|---|
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_badass"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_tokenizerArt"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_tokenizer"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/vis_dotfiles"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/cub3d_42"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/coviccinelle"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_override"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/WebDevNewbie"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/vitcut"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42_subjects"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_42_Containers"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42-libft"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/Minishell"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42_CPP"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/todolist"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42_iot_thi-phng"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/api_test"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42so_long"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_ft_irc"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_printf_42"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/minitalk_42"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/bootstrap_ubuntu"/> |
+| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_push_swap"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42ft_ping"/> |
+
+</details>
+
+---
+
+## 📈 github stats
+<div align="center">
+  <a href="https://github.com/coviccinelle">
+    <img src="https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/coviccinelle">
+    <img src="https://streak-stats.demolab.com?user=coviccinelle&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/coviccinelle/coviccinelle">
+    <img src="https://komarev.com/ghpvc/?username=coviccinelle&style=flat-square" alt="page views" />
+  </a>
+</div>
