@@ -59,19 +59,5 @@ I love building playful projects with clean design and strong fundamentals.
 | red-tetris *(public soon)* | Web game: multiplayer tetris variant with real-time competitive gameplay. |
 
 ---
-
-## 📈 github stats
-<div align="center">
-  <a href="https://github.com/coviccinelle">
-    <img src="https://github-readme-stats.vercel.app/api?username=coviccinelle&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/coviccinelle">
-    <img src="https://streak-stats.demolab.com?user=coviccinelle&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/coviccinelle/coviccinelle">
-    <img src="https://komarev.com/ghpvc/?username=coviccinelle&style=flat-square" alt="page views" />
-  </a>
-</div>
+## Github Stat
+[![GitHub Streak](https://streak-stats.demolab.com?user=coviccinelle&theme=radium&v=1)](https://github.com/coviccinelle)
