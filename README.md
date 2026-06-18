@@ -33,8 +33,7 @@ I love building playful projects with clean design and strong fundamentals.
 | [42_iot_thi-phng](https://github.com/coviccinelle/42_iot_thi-phng) | Shell · IoT: scripts and setup around IoT-focused school exercises. |
 | [42-libft](https://github.com/coviccinelle/42-libft) | C · core library: custom standard-library-like helper functions in C. |
 | [42_override](https://github.com/coviccinelle/42_override) | Shell: security and system exercises from the Override project. |
-| [42_push_swap](https://github.com/coviccinelle/42_push_swap) | C · algorithms: sorting with constrained stack operations and optimization. |
-| [42_subjects](https://github.com/coviccinelle/42_subjects) | project subjects: reference repository of project instructions and briefs. |
+| [42_push_swap](https://github.com/coviccinelle/42_push_swap) | C · algorithms: sorting with constrained stack operations and optimisation. |
 | [42ft_ping](https://github.com/coviccinelle/42ft_ping) | C · system programming: recoding ping with low-level networking behavior. |
 | [42so_long](https://github.com/coviccinelle/42so_long) | C · 2D game: tile-based game with map parsing and miniLibX rendering. |
 | [api_test](https://github.com/coviccinelle/api_test) | JavaScript: sandbox project for API calls, requests, and integration tests. |
@@ -50,7 +49,6 @@ I love building playful projects with clean design and strong fundamentals.
 | [todolist](https://github.com/coviccinelle/todolist) | HTML: lightweight to-do list interface for frontend practice. |
 | [vis_dotfiles](https://github.com/coviccinelle/vis_dotfiles) | Shell · dotfiles: terminal/editor configuration and personal environment setup. |
 | [vitcut](https://github.com/coviccinelle/vitcut) | app prototype: early-stage app idea and experimentation workspace. |
-| [WebDevNewbie](https://github.com/coviccinelle/WebDevNewbie) | JavaScript: beginner-friendly web development experiments and mini-features. |
 | ping pong multiplayer *(public soon)* | Web game: real-time multiplayer ping pong built for browser play. |
 | red-tetris *(public soon)* | Web game: multiplayer tetris variant with real-time competitive gameplay. |
 
