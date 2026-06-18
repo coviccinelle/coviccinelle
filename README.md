@@ -1,7 +1,13 @@
 <div align="center">
 
 # 🌸 Thao · coviccinelle
-### cute, minimalist, pastel portfolio
+### minimalist portfolio
+
+42Paris student
+
+Human and alive
+
+EN / FR / VI
 
 <a href="https://github.com/coviccinelle?tab=repositories"><img alt="all repos" src="https://img.shields.io/badge/Public%20Repos-24-f6c6d8?style=for-the-badge"></a>
 <a href="https://github.com/coviccinelle?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/coviccinelle?style=for-the-badge&color=c7b8ff"></a>
