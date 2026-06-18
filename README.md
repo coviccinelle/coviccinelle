@@ -27,50 +27,32 @@ I love building playful projects with clean design and strong fundamentals.
 
 | Repo | Stack / focus |
 |---|---|
-| [42_badass](https://github.com/coviccinelle/42_badass) | Shell · network school project |
-| [42_CPP](https://github.com/coviccinelle/42_CPP) | C++ |
-| [42_ft_irc](https://github.com/coviccinelle/42_ft_irc) | C++ · IRC server |
-| [42_iot_thi-phng](https://github.com/coviccinelle/42_iot_thi-phng) | Shell · IoT |
-| [42-libft](https://github.com/coviccinelle/42-libft) | C · core library |
-| [42_override](https://github.com/coviccinelle/42_override) | Shell |
-| [42_push_swap](https://github.com/coviccinelle/42_push_swap) | C · algorithms |
-| [42_subjects](https://github.com/coviccinelle/42_subjects) | project subjects |
-| [42ft_ping](https://github.com/coviccinelle/42ft_ping) | C · system programming |
-| [42so_long](https://github.com/coviccinelle/42so_long) | C · 2D game |
-| [api_test](https://github.com/coviccinelle/api_test) | JavaScript |
-| [bootstrap_ubuntu](https://github.com/coviccinelle/bootstrap_ubuntu) | Shell |
-| [coviccinelle](https://github.com/coviccinelle/coviccinelle) | profile repository |
-| [cub3d_42](https://github.com/coviccinelle/cub3d_42) | C · raycasting |
-| [ft_42_Containers](https://github.com/coviccinelle/ft_42_Containers) | C++ · containers |
-| [ft_printf_42](https://github.com/coviccinelle/ft_printf_42) | C · printf |
-| [ft_tokenizer](https://github.com/coviccinelle/ft_tokenizer) | Solidity · web3 token |
-| [ft_tokenizerArt](https://github.com/coviccinelle/ft_tokenizerArt) | HTML · NFT project |
-| [Minishell](https://github.com/coviccinelle/Minishell) | C · shell |
-| [minitalk_42](https://github.com/coviccinelle/minitalk_42) | C · unix signals |
-| [todolist](https://github.com/coviccinelle/todolist) | HTML |
-| [vis_dotfiles](https://github.com/coviccinelle/vis_dotfiles) | Shell · dotfiles |
-| [vitcut](https://github.com/coviccinelle/vitcut) | app prototype |
-| [WebDevNewbie](https://github.com/coviccinelle/WebDevNewbie) | JavaScript |
-
-<details>
-<summary>🖼️ pastel repo cards (auto image preview for each public repo)</summary>
-
-|  |  |
-|---|---|
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_badass"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_tokenizerArt"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_tokenizer"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/vis_dotfiles"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/cub3d_42"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/coviccinelle"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_override"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/WebDevNewbie"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/vitcut"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42_subjects"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_42_Containers"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42-libft"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/Minishell"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42_CPP"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/todolist"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42_iot_thi-phng"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/api_test"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42so_long"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_ft_irc"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/ft_printf_42"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/minitalk_42"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/bootstrap_ubuntu"/> |
-| <img src="https://opengraph.githubassets.com/1/coviccinelle/42_push_swap"/> | <img src="https://opengraph.githubassets.com/1/coviccinelle/42ft_ping"/> |
-
-</details>
+| [42_badass](https://github.com/coviccinelle/42_badass) | Shell · network school project: learning core routing and network architecture concepts. |
+| [42_CPP](https://github.com/coviccinelle/42_CPP) | C++: 42 modules to practice OOP, templates, and modern C++ fundamentals. |
+| [42_ft_irc](https://github.com/coviccinelle/42_ft_irc) | C++ · IRC server: implementing a real IRC protocol server from scratch. |
+| [42_iot_thi-phng](https://github.com/coviccinelle/42_iot_thi-phng) | Shell · IoT: scripts and setup around IoT-focused school exercises. |
+| [42-libft](https://github.com/coviccinelle/42-libft) | C · core library: custom standard-library-like helper functions in C. |
+| [42_override](https://github.com/coviccinelle/42_override) | Shell: security and system exercises from the Override project. |
+| [42_push_swap](https://github.com/coviccinelle/42_push_swap) | C · algorithms: sorting with constrained stack operations and optimization. |
+| [42_subjects](https://github.com/coviccinelle/42_subjects) | project subjects: reference repository of project instructions and briefs. |
+| [42ft_ping](https://github.com/coviccinelle/42ft_ping) | C · system programming: recoding ping with low-level networking behavior. |
+| [42so_long](https://github.com/coviccinelle/42so_long) | C · 2D game: tile-based game with map parsing and miniLibX rendering. |
+| [api_test](https://github.com/coviccinelle/api_test) | JavaScript: sandbox project for API calls, requests, and integration tests. |
+| [bootstrap_ubuntu](https://github.com/coviccinelle/bootstrap_ubuntu) | Shell: minimal Ubuntu bootstrap and post-install automation scripts. |
+| [coviccinelle](https://github.com/coviccinelle/coviccinelle) | profile repository: personal GitHub profile README and showcase. |
+| [cub3d_42](https://github.com/coviccinelle/cub3d_42) | C · raycasting: Wolfenstein-style 3D engine using miniLibX. |
+| [ft_42_Containers](https://github.com/coviccinelle/ft_42_Containers) | C++ · containers: rebuilding STL-like containers for performance and understanding. |
+| [ft_printf_42](https://github.com/coviccinelle/ft_printf_42) | C · printf: custom implementation of formatted output handling. |
+| [ft_tokenizer](https://github.com/coviccinelle/ft_tokenizer) | Solidity · web3 token: token smart-contract experimentation and deployment basics. |
+| [ft_tokenizerArt](https://github.com/coviccinelle/ft_tokenizerArt) | HTML · NFT project: web front-end around NFT/token creation workflows. |
+| [Minishell](https://github.com/coviccinelle/Minishell) | C · shell: Bash-like shell with parsing, pipes, and redirections. |
+| [minitalk_42](https://github.com/coviccinelle/minitalk_42) | C · unix signals: client/server communication using POSIX signals. |
+| [todolist](https://github.com/coviccinelle/todolist) | HTML: lightweight to-do list interface for frontend practice. |
+| [vis_dotfiles](https://github.com/coviccinelle/vis_dotfiles) | Shell · dotfiles: terminal/editor configuration and personal environment setup. |
+| [vitcut](https://github.com/coviccinelle/vitcut) | app prototype: early-stage app idea and experimentation workspace. |
+| [WebDevNewbie](https://github.com/coviccinelle/WebDevNewbie) | JavaScript: beginner-friendly web development experiments and mini-features. |
+| ping pong multiplayer *(public soon)* | Web game: real-time multiplayer ping pong built for browser play. |
+| red-tetris *(public soon)* | Web game: multiplayer tetris variant with real-time competitive gameplay. |
 
 ---
 
