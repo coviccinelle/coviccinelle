@@ -27,7 +27,7 @@ I love building playful projects with clean design and strong fundamentals.
 
 | Repo | Stack / focus |
 |---|---|
-| [42_badass](https://github.com/coviccinelle/42_badass) | Shell · network school project: learning core routing and network architecture concepts. |
+| [42_badass (network lab)](https://github.com/coviccinelle/42_badass) | Shell · network school project: learning core routing and network architecture concepts. |
 | [42_CPP](https://github.com/coviccinelle/42_CPP) | C++: 42 modules to practice OOP, templates, and modern C++ fundamentals. |
 | [42_ft_irc](https://github.com/coviccinelle/42_ft_irc) | C++ · IRC server: implementing a real IRC protocol server from scratch. |
 | [42_iot_thi-phng](https://github.com/coviccinelle/42_iot_thi-phng) | Shell · IoT: scripts and setup around IoT-focused school exercises. |
