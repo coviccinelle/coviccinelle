@@ -21,9 +21,15 @@ I love building playful projects with clean design and strong fundamentals.
 |---|---|
 | <img src="https://github.com/coviccinelle/cub3d_42/blob/newwww/cub_3d.gif" width="100%"/> | <img src="https://github.com/coviccinelle/Minishell/blob/norme/minishell_b.gif" width="100%"/> |
 
-| 42 ping pong | 42_red_tetris |
+| 42 ping pong | minimal todolist |
 |---|---|
-| <img src="https://github.com/coviccinelle/42ft_transcendence/blob/master/visual/pong_canards.gif" width="100%"/> | <img src="https://private-user-images.githubusercontent.com/51762886/610021976-e638bf12-df3d-43dd-8f0b-0b479498ad91.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE4NjEwMzYsIm5iZiI6MTc4MTg2MDczNiwicGF0aCI6Ii81MTc2Mjg4Ni82MTAwMjE5NzYtZTYzOGJmMTItZGYzZC00M2RkLThmMGItMGI0Nzk0OThhZDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE5VDA5MTg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3ZTVkY2Q1OTdiZDEzZGJiZTU4MmZiYmZhODc0YTMyODYyY2EzM2U1YmFkOTU3ZTAxYjg5YWY4YmI1NDcyMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.0PYz3D0unecsE_zU9Qt2KfZwM4rUmFxL8fSHgKjUzMA" width="100%"/> |
+| <img src="https://github.com/coviccinelle/42ft_transcendence/blob/master/visual/pong_canards.gif" width="100%"/> |  <img src="https://github.com/coviccinelle/todolist/blob/main/todolist_gif.gif" width="100%"/>
+
+| red tetris |
+|---|
+<img src="https://private-user-images.githubusercontent.com/51762886/610021976-e638bf12-df3d-43dd-8f0b-0b479498ad91.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE4NjEwMzYsIm5iZiI6MTc4MTg2MDczNiwicGF0aCI6Ii81MTc2Mjg4Ni82MTAwMjE5NzYtZTYzOGJmMTItZGYzZC00M2RkLThmMGItMGI0Nzk0OThhZDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE5VDA5MTg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3ZTVkY2Q1OTdiZDEzZGJiZTU4MmZiYmZhODc0YTMyODYyY2EzM2U1YmFkOTU3ZTAxYjg5YWY4YmI1NDcyMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.0PYz3D0unecsE_zU9Qt2KfZwM4rUmFxL8fSHgKjUzMA" width="100%"/> |
+
+
 
 | 42so_long | 42_push_swap |
 |---|---|
