@@ -3,11 +3,7 @@
 # 🌸 Thao · coviccinelle
 ### minimalist portfolio
 
-42Paris student
-
-Human and alive
-
-EN / FR / VI
+42Paris student · Human and alive · EN / FR / VI
 
 <a href="https://github.com/coviccinelle?tab=repositories"><img alt="all repos" src="https://img.shields.io/badge/Public%20Repos-24-f6c6d8?style=for-the-badge"></a>
 <a href="https://github.com/coviccinelle?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/coviccinelle?style=for-the-badge&color=c7b8ff"></a>
@@ -25,6 +21,10 @@ I love building playful projects with clean design and strong fundamentals.
 |---|---|
 | <img src="https://github.com/coviccinelle/cub3d_42/blob/newwww/cub_3d.gif" width="100%"/> | <img src="https://github.com/coviccinelle/Minishell/blob/norme/minishell_b.gif" width="100%"/> |
 
+| 42 ping pong | 42_red_tetris |
+|---|---|
+| <img src="https://github.com/coviccinelle/42ft_transcendence/blob/master/visual/pong_canards.gif" width="100%"/> | <img src="https://private-user-images.githubusercontent.com/51762886/610021976-e638bf12-df3d-43dd-8f0b-0b479498ad91.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE4NjEwMzYsIm5iZiI6MTc4MTg2MDczNiwicGF0aCI6Ii81MTc2Mjg4Ni82MTAwMjE5NzYtZTYzOGJmMTItZGYzZC00M2RkLThmMGItMGI0Nzk0OThhZDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE5VDA5MTg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3ZTVkY2Q1OTdiZDEzZGJiZTU4MmZiYmZhODc0YTMyODYyY2EzM2U1YmFkOTU3ZTAxYjg5YWY4YmI1NDcyMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.0PYz3D0unecsE_zU9Qt2KfZwM4rUmFxL8fSHgKjUzMA" width="100%"/> |
+
 | 42so_long | 42_push_swap |
 |---|---|
 | <img src="https://github.com/coviccinelle/42so_long/blob/main/ft_so_long.gif" width="100%"/> | <img src="https://github.com/coviccinelle/42_push_swap/blob/main/push_swap_visualize.gif" width="100%"/> |
@@ -33,29 +33,29 @@ I love building playful projects with clean design and strong fundamentals.
 
 | Repo | Stack / focus |
 |---|---|
-| ping pong multiplayer | Web game: real-time multiplayer ping pong built for browser play. |
-| red-tetris | Web game: multiplayer tetris variant with real-time competitive gameplay. |
+| [ping pong multiplayer](https://github.com/coviccinelle/ft_42_transcendence) | TypeScript: real-time multiplayer ping pong built for browser play. |
+| [42_red-tetris](https://github.com/coviccinelle/42_red_tetris) | TypeScript: multiplayer tetris variant with real-time competitive gameplay. |
+| [todolist](https://github.com/coviccinelle/todolist) | HTML: minimalistic to-do list - like paper and pen - no storing data whatsoever |
 | [42_push_swap](https://github.com/coviccinelle/42_push_swap) | C · algorithms: sorting with constrained stack operations and optimisation. |
-| [42ft_ping](https://github.com/coviccinelle/42ft_ping) | C · system programming: recoding ping with low-level networking behavior. |
+| [42ft_ping](https://github.com/coviccinelle/42ft_ping) | C · system programming: recoding ping with low-level networking behaviour. |
 | [42so_long](https://github.com/coviccinelle/42so_long) | C · 2D game: tile-based game with map parsing and miniLibX rendering. |
 | [42_ft_irc](https://github.com/coviccinelle/42_ft_irc) | C++ · IRC server: implementing a real IRC protocol server from scratch. |
-| [42_iot_thi-phng](https://github.com/coviccinelle/42_iot_thi-phng) | Shell · IoT: scripts and setup around IoT-focused school exercises. |
-| [ft_tokenizer](https://github.com/coviccinelle/ft_tokenizer) | Solidity · web3 token: token smart-contract experimentation and deployment basics. |
-| [ft_tokenizerArt](https://github.com/coviccinelle/ft_tokenizerArt) | HTML · NFT project: web front-end around NFT/token creation workflows. |
+| [42_iot_thi-phng](https://github.com/coviccinelle/42_iot_thi-phng) | K3S · K3d · Vagrant : setup a cluster using Kubernetty. |
+| [ft_tokenizer](https://github.com/coviccinelle/ft_tokenizer) | Solidity · web3 token: create a token (+ multisig) smart-contract, experimentation and deployment basics. |
+| [ft_tokenizerArt](https://github.com/coviccinelle/ft_tokenizerArt) | HTML · slidity · NFT project: web front-end around NFT/token creation workflows. |
 | [Minishell](https://github.com/coviccinelle/Minishell) | C · shell: Bash-like shell with parsing, pipes, and redirections. |
 | [42_badass (network lab)](https://github.com/coviccinelle/42_badass) | Shell · network school project: learning core routing and network architecture concepts. |
-| [42_CPP](https://github.com/coviccinelle/42_CPP) | C++: 42 modules to practice OOP, templates, and modern C++ fundamentals. |
-| [42-libft](https://github.com/coviccinelle/42-libft) | C · core library: custom standard-library-like helper functions in C. |
 | [42_override](https://github.com/coviccinelle/42_override) | Shell: security and system exercises from the Override project. |
 | [api_test](https://github.com/coviccinelle/api_test) | JavaScript: sandbox project for API calls, requests, and integration tests. |
-| [bootstrap_ubuntu](https://github.com/coviccinelle/bootstrap_ubuntu) | Shell: minimal Ubuntu bootstrap and post-install automation scripts. |
-| [coviccinelle](https://github.com/coviccinelle/coviccinelle) | profile repository: personal GitHub profile README and showcase. |
 | [ft_42_Containers](https://github.com/coviccinelle/ft_42_Containers) | C++ · containers: rebuilding STL-like containers for performance and understanding. |
-| [ft_printf_42](https://github.com/coviccinelle/ft_printf_42) | C · printf: custom implementation of formatted output handling. |
+| [ft_printf_42](https://github.com/coviccinelle/ft_printf_42) | C · recode printf: custom implementation of formatted output handling. |
 | [minitalk_42](https://github.com/coviccinelle/minitalk_42) | C · unix signals: client/server communication using POSIX signals. |
-| [todolist](https://github.com/coviccinelle/todolist) | HTML: lightweight to-do list interface for frontend practice. |
+| [42_CPP](https://github.com/coviccinelle/42_CPP) | C++: 42 modules to practice OOP, templates, and modern C++ fundamentals. |
+| [42-libft](https://github.com/coviccinelle/42-libft) | C · recode C library: custom standard-library-like helper functions in C. |
+| [bootstrap_ubuntu](https://github.com/coviccinelle/bootstrap_ubuntu) | Shell: minimal Ubuntu bootstrap and post-install automation scripts. |
+| [coviccinelle](https://github.com/coviccinelle/coviccinelle) | profile repository: personal GitHub porfolio. |
 | [vis_dotfiles](https://github.com/coviccinelle/vis_dotfiles) | Shell · dotfiles: terminal/editor configuration and personal environment setup. |
-| [vitcut](https://github.com/coviccinelle/vitcut) | app prototype: early-stage app idea and experimentation workspace. |
+| [vitcut](https://github.com/coviccinelle/vitcut) | TypeScript · WIP smart video editor prototype: early-stage app idea and experimentation workspace. |
 
 ---
 
