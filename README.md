@@ -39,9 +39,9 @@ I love building playful projects with clean design and strong fundamentals.
 
 | Repo | Stack / focus |
 |---|---|
-| [ping pong multiplayer](https://github.com/coviccinelle/ft_42_transcendence) | TypeScript: real-time multiplayer ping pong built for browser play. |
 | [42_red-tetris](https://github.com/coviccinelle/42_red_tetris) | TypeScript: multiplayer tetris variant with real-time competitive gameplay. |
 | [todolist](https://github.com/coviccinelle/todolist) | HTML: minimalistic to-do list - like paper and pen - no storing data whatsoever |
+| [ping pong multiplayer](https://github.com/coviccinelle/ft_42_transcendence) | TypeScript: real-time multiplayer ping pong built for browser play. |
 | [42_push_swap](https://github.com/coviccinelle/42_push_swap) | C · algorithms: sorting with constrained stack operations and optimisation. |
 | [42ft_ping](https://github.com/coviccinelle/42ft_ping) | C · system programming: recoding ping with low-level networking behaviour. |
 | [42so_long](https://github.com/coviccinelle/42so_long) | C · 2D game: tile-based game with map parsing and miniLibX rendering. |
